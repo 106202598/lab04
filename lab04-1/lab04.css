@@ -1,0 +1,135 @@
+/*
+
+filename: [your name]
+
+author: [your name]
+
+created: [enter date]
+
+last modified: [enter date]
+
+description: [html files it refers to (if known)]
+
+*/
+
+/* General Page Styling */
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 20px;
+  background-color: whitesmoke;
+  color: black;
+}
+
+/* Headings */
+h1 {
+  color: blueviolet;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  font-style: italic;
+}
+
+h2 {
+    color: darkcyan;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    font-style: italic;
+}
+
+h3 {
+    color: crimson;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    font-style: italic;
+}
+
+h4 {
+    color: darkslateblue;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    font-style: italic;
+}
+
+h5 {
+    color: indigo;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    font-style: italic;
+}
+
+h6 {
+    color: brown;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    font-style: italic;
+}
+
+/* Paragraphs */
+p {
+  line-height: 1.6;
+  margin-bottom: 1em;
+}
+
+/* Lists */
+ul, ol {
+  margin-left: 2em;
+  margin-bottom: 1em;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2em;
+  background-color: #fff;
+}
+
+caption {
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: whitesmoke;
+}
+
+/* Hyperlinks */
+a {
+  color: cornflowerblue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em 0;
+}
+
+/* Figure styling */
+figure {
+  margin: 1em 0;
+  text-align: center;
+}
+
+/* Special Characters */
+.special-char {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: whitesmoke;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
